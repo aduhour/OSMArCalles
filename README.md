@@ -2,8 +2,6 @@
 
 Calles de Argentina en OpenStreetMap. 
 
-Este trabajo es parte de las contribuciones al mapa de Argentina realizado con Kaart (https://kaart.com/)
-
 Repositorio de código y archivos relativos al análisis de nombres de calles y proyectos de Maproulette
 
 # Abreviaturas
