@@ -42,8 +42,10 @@ st_crs(calles) <- 4326
 st_crs(limitebsas_linea) <- 4326
 
 
-# Grafico de las calles. Lleva tiempo para la provincia de Buenos Aires
-plot(calles) #lerdo
+# Grafico de las calles. El procedimiento es lento para la provincia de Buenos Aires
+# por el gran número de calles.
+
+plot(calles)
 
 # Gráfico del límite provincial
 
