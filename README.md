@@ -17,6 +17,7 @@ Construí un listado de abreviaturas existentes en la provincia de Buenos Aires 
 
 # Nombres de provincia
 
-- Se creó una consulta que busca en calles con nombre de las provincias de Córdoba, Entre Ríos, Neuquén, Río Negro, Santa Fe y Tucumán la falta de acentuación o el agregado de acentos incorrectos
+Construí una consulta que busca en calles con nombre de las provincias de Córdoba, Entre Ríos, Neuquén, Río Negro, Santa Fe y Tucumán la falta de acentuación o el agregado de acentos incorrectos
+
 - Consulta: https://overpass-turbo.eu/s/19BL
 - Desafío en MR para corregir estos errores: https://maproulette.org/browse/challenges/19972
