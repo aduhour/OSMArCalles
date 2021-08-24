@@ -21,3 +21,6 @@ Construí una consulta que busca en calles con nombre de las provincias de Córd
 
 - Consulta: https://overpass-turbo.eu/s/19BL
 - Desafío en MR para corregir estos errores: https://maproulette.org/browse/challenges/19972
+
+# Calles con la etiqueta addr:street
+- Consulta: https://overpass-turbo.eu/s/1aBE
