@@ -15,6 +15,10 @@ Construí un listado de abreviaturas existentes en la provincia de Buenos Aires 
 - Consulta: https://overpass-turbo.eu/s/19vl
 - Desafío en MR para corregir las abreviaturas: https://maproulette.org/browse/challenges/20132
 
+- Sobre esta base y la revisión en el país se armó un listado de abreviaturas para revisar por provincia.
+- Construí un script en R que busca calles que tienen un punto en su primer palabra y además que tienen alguna de las abreviaturas sin punto y sin distinción de mayúsculas.
+- Guardo el resultado en un archivo geojson que se puede cargar en maproulette y un mapa interactivo para ver por provincia.
+
 # Nombres de provincia
 
 Construí una consulta que busca en calles con nombre de las provincias de Córdoba, Entre Ríos, Neuquén, Río Negro, Santa Fe y Tucumán la falta de acentuación o el agregado de acentos incorrectos
