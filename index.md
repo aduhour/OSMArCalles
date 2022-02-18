@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Bienvenidxs!
+
+Vamos a comenzar a documentar el trabajo de 
+cotribuciones en OpenStreetMap
+
+
+-----
+-> a modificar
 
 You can use the [editor on GitHub](https://github.com/aduhour/OSMArCalles/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
