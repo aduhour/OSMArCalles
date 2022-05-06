@@ -13,11 +13,13 @@ Construí un listado de abreviaturas existentes en la provincia de Buenos Aires 
 - Se ordenó de menor a mayor encontrando en los primeros lugares las calles con nombres abreviados.
 - Tomando esta lista de abreviaturas, se construyó una consulta de overpass para buscar en Argentina las calles con cualquier etiqueta "highway=" que incluyeran alguna de ellas.
 - Consulta: https://overpass-turbo.eu/s/19vl
-- Desafío en MR para corregir las abreviaturas: https://maproulette.org/browse/challenges/20132
+- Desafío en MR para corregir las abreviaturas (finalizado): https://maproulette.org/browse/challenges/20132
 
 - Sobre esta base y la revisión en el país se armó un listado de abreviaturas para revisar por provincia.
 - Construí un script en R que busca calles que tienen un punto en su primer palabra y además que tienen alguna de las abreviaturas sin punto y sin distinción de mayúsculas.
 - Guardo el resultado en un archivo geojson que se puede cargar en maproulette y un mapa interactivo para ver por provincia.
+- Desafío para corregir abreviaturas en todo el país. Las tareas que restan requieren conocimiento local: https://maproulette.org/challenge/26817
+- 1 de Mayo y otros ordinales: Con este desafío se busca corregir abreviaturas de ordinales como por ejemplo "1° de Mayo" https://maproulette.org/challenge/27387
 
 # Nombres de provincia
 
