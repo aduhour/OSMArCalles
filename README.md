@@ -4,6 +4,12 @@ Calles de Argentina en OpenStreetMap.
 
 Repositorio de código y archivos relativos al análisis de nombres de calles y proyectos de Maproulette
 
+# Concordancia de etiquetas addr:street y nombres de calle
+
+- Fuente: Descargando errores detectados en: http://osmose.openstreetmap.fr/en/issues/open, seleccionando la provincia, el ítem 2060 - Street numbers, Severity: Normal or higher, guardar en formato geojson full. 
+
+- Proyecto: https://maproulette.org/browse/projects/48589
+
 # Abreviaturas
 Construí un listado de abreviaturas existentes en la provincia de Buenos Aires y las utilicé para armar una consulta en todo el país y luego un desafío de maproulette para hacer la revisión. Detallo los pasos y comparto el código de R
 
